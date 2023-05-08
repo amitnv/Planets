@@ -11,6 +11,7 @@
 - Includes a cool and continuous animation when the images are tapped 
 - Has a nice custom built icon
 - Supports dark mode
+- Does not use any third party framework
 
 Possible improvements:
 - Adding another ProgressView() for images just like the one used for main API
@@ -20,6 +21,9 @@ Possible improvements:
 - Adding Pagination support to load rest of the pages
 - Adding AsyncImage() API 
 - Transition away from NavigationView to NavigationStack(requires updating the app to iOS 16 and above)
+
+Prerequisites:
+- Requires a mac running Xcode 14 or above
 
 Short Demo:
 https://user-images.githubusercontent.com/9431943/236849614-452bbca3-348a-42bd-950d-ce79d25adc45.mov

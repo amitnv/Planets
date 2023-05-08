@@ -26,5 +26,5 @@ Prerequisites:
 - Requires a mac running Xcode 14 or above
 
 Short Demo:
-https://user-images.githubusercontent.com/9431943/236849614-452bbca3-348a-42bd-950d-ce79d25adc45.mov
+- https://user-images.githubusercontent.com/9431943/236849614-452bbca3-348a-42bd-950d-ce79d25adc45.mov
 
